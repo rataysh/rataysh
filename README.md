@@ -1,9 +1,12 @@
+[![MasterHead](https://user-images.githubusercontent.com/88318279/203398317-19d6fc86-e9c3-4bd5-ae5c-bf52ed29bc5d.png)](https://rataysh.io)
+
 <h1 align="center">Hi 👋, I'm Denis Otkidach</h1>
 <h3 align="center">A passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rataysh&label=Profile%20views&color=0e75b6&style=flat" alt="rataysh" /> </p>
 
 - 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Bootstrap**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
