@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rataysh&label=Profile%20views&color=0e75b6&style=flat" alt="rataysh" /> </p>
 
-- 🌱 I’m currently learning **React, TypeScript, TailwindCSS, Bootstrap**
+- 🌱 I’m currently learning **React, TypeScript, Flutter, Dart**
 
 
 <h3 align="left">Connect with me:</h3>
