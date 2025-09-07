@@ -4,7 +4,7 @@
 </div>
 
 
-### Software Engineer | 4.5+ years experience | 2+ years in Flutter development 
+### Software Engineer | 5+ years experience | 3+ years in Flutter development 
 
 **Skills**: Flutter, Dart, Python, Node.js, Firebase, SQL, CI/CD, SOLID  
 **Languages**: English (Fluent), German (Basic)  
